@@ -1,5 +1,5 @@
 # eShopGo
-Go parallel product handler
+eShop issues a search for products in parallel in the main electronic stores through asynchronous channels, it returns a single metadata scheme classified based on the search parameters.
 
 More info:
 
